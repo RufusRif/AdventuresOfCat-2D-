@@ -1,0 +1,366 @@
+fileFormatVersion: 2
+guid: 9c0d0de70e87d7f43bf99e14884c592d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: a-set-of-tree-branch-vector_34
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1961
+        width: 6340
+        height: 1197
+      alignment: 9
+      pivot: {x: 0.49378785, y: 0.4790069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2719f330a8ceff4aa20d14f64b60e32
+      internalID: 1253980802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-set-of-tree-branch-vector_115
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 956
+        width: 482
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3bc01fe17f1be47812cf130d1d8747
+      internalID: -1215635300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-set-of-tree-branch-vector_125
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 964
+        width: 4043
+        height: 969
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e430b78bf0abdb4fbe8679d8949d8d3
+      internalID: 346951245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: a-set-of-tree-branch-vector_142
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 168
+        width: 4627
+        height: 776
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680efd442787e424b8b29c05955c8020
+      internalID: -2108838270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      a-set-of-tree-branch-vector_0: -159300881
+      a-set-of-tree-branch-vector_1: 104319124
+      a-set-of-tree-branch-vector_10: 1946376841
+      a-set-of-tree-branch-vector_100: 995847231
+      a-set-of-tree-branch-vector_101: 1230161419
+      a-set-of-tree-branch-vector_102: -555266715
+      a-set-of-tree-branch-vector_103: 1017115895
+      a-set-of-tree-branch-vector_104: 1666162076
+      a-set-of-tree-branch-vector_105: 1736017065
+      a-set-of-tree-branch-vector_106: -420075705
+      a-set-of-tree-branch-vector_107: -67220202
+      a-set-of-tree-branch-vector_108: -1355234615
+      a-set-of-tree-branch-vector_109: -902836355
+      a-set-of-tree-branch-vector_11: -827607644
+      a-set-of-tree-branch-vector_110: 401976133
+      a-set-of-tree-branch-vector_111: 798903103
+      a-set-of-tree-branch-vector_112: -1751962967
+      a-set-of-tree-branch-vector_113: 1101778467
+      a-set-of-tree-branch-vector_114: -637035865
+      a-set-of-tree-branch-vector_115: -1215635300
+      a-set-of-tree-branch-vector_116: 1668297435
+      a-set-of-tree-branch-vector_117: 1777546050
+      a-set-of-tree-branch-vector_118: 120639681
+      a-set-of-tree-branch-vector_119: 848841150
+      a-set-of-tree-branch-vector_12: -550304229
+      a-set-of-tree-branch-vector_120: -1609285822
+      a-set-of-tree-branch-vector_121: -1135331979
+      a-set-of-tree-branch-vector_122: -112404111
+      a-set-of-tree-branch-vector_123: -1465576800
+      a-set-of-tree-branch-vector_124: -785038127
+      a-set-of-tree-branch-vector_125: 346951245
+      a-set-of-tree-branch-vector_126: 113700393
+      a-set-of-tree-branch-vector_127: 1574331739
+      a-set-of-tree-branch-vector_128: -1516647297
+      a-set-of-tree-branch-vector_129: 1409795364
+      a-set-of-tree-branch-vector_13: -1545456667
+      a-set-of-tree-branch-vector_130: -488936046
+      a-set-of-tree-branch-vector_131: -1068860730
+      a-set-of-tree-branch-vector_132: -982694423
+      a-set-of-tree-branch-vector_133: -1429790016
+      a-set-of-tree-branch-vector_134: 807393754
+      a-set-of-tree-branch-vector_135: 744666470
+      a-set-of-tree-branch-vector_136: -1985216777
+      a-set-of-tree-branch-vector_137: -329285331
+      a-set-of-tree-branch-vector_138: 1257364644
+      a-set-of-tree-branch-vector_139: 569902124
+      a-set-of-tree-branch-vector_14: -375256714
+      a-set-of-tree-branch-vector_140: -1545950389
+      a-set-of-tree-branch-vector_141: 10752945
+      a-set-of-tree-branch-vector_142: -2108838270
+      a-set-of-tree-branch-vector_143: -1230180316
+      a-set-of-tree-branch-vector_144: 2141915332
+      a-set-of-tree-branch-vector_145: 1532898886
+      a-set-of-tree-branch-vector_146: -959654897
+      a-set-of-tree-branch-vector_147: 1529572321
+      a-set-of-tree-branch-vector_148: 695322715
+      a-set-of-tree-branch-vector_149: -92007142
+      a-set-of-tree-branch-vector_15: -1827064687
+      a-set-of-tree-branch-vector_150: 1061292561
+      a-set-of-tree-branch-vector_151: -2015240937
+      a-set-of-tree-branch-vector_152: -1220569432
+      a-set-of-tree-branch-vector_153: -2142994565
+      a-set-of-tree-branch-vector_154: -1747256017
+      a-set-of-tree-branch-vector_16: 1300520915
+      a-set-of-tree-branch-vector_17: -2055701658
+      a-set-of-tree-branch-vector_18: 1883795734
+      a-set-of-tree-branch-vector_19: 1120135643
+      a-set-of-tree-branch-vector_2: 400491090
+      a-set-of-tree-branch-vector_20: -987923860
+      a-set-of-tree-branch-vector_21: -345568610
+      a-set-of-tree-branch-vector_22: 2123092310
+      a-set-of-tree-branch-vector_23: 2036978624
+      a-set-of-tree-branch-vector_24: 2040740230
+      a-set-of-tree-branch-vector_25: 699759909
+      a-set-of-tree-branch-vector_26: 1617952653
+      a-set-of-tree-branch-vector_27: -2082995871
+      a-set-of-tree-branch-vector_28: -1651995235
+      a-set-of-tree-branch-vector_29: 1131388727
+      a-set-of-tree-branch-vector_3: -924823398
+      a-set-of-tree-branch-vector_30: 305603954
+      a-set-of-tree-branch-vector_31: 778688080
+      a-set-of-tree-branch-vector_32: 2019858839
+      a-set-of-tree-branch-vector_33: -1024551881
+      a-set-of-tree-branch-vector_34: 1253980802
+      a-set-of-tree-branch-vector_35: -782603557
+      a-set-of-tree-branch-vector_36: -1673608942
+      a-set-of-tree-branch-vector_37: -331414136
+      a-set-of-tree-branch-vector_38: 241871823
+      a-set-of-tree-branch-vector_39: -1731771313
+      a-set-of-tree-branch-vector_4: -1174144194
+      a-set-of-tree-branch-vector_40: -1373488429
+      a-set-of-tree-branch-vector_41: 442125445
+      a-set-of-tree-branch-vector_42: 1275272615
+      a-set-of-tree-branch-vector_43: 1134325933
+      a-set-of-tree-branch-vector_44: 1517530119
+      a-set-of-tree-branch-vector_45: 566855909
+      a-set-of-tree-branch-vector_46: 1681610600
+      a-set-of-tree-branch-vector_47: -976220075
+      a-set-of-tree-branch-vector_48: -744552861
+      a-set-of-tree-branch-vector_49: -362988091
+      a-set-of-tree-branch-vector_5: 787794637
+      a-set-of-tree-branch-vector_50: 770667948
+      a-set-of-tree-branch-vector_51: 1927995977
+      a-set-of-tree-branch-vector_52: -231180366
+      a-set-of-tree-branch-vector_53: -1055432442
+      a-set-of-tree-branch-vector_54: -1339464632
+      a-set-of-tree-branch-vector_55: 1223509650
+      a-set-of-tree-branch-vector_56: -1201648933
+      a-set-of-tree-branch-vector_57: -476810910
+      a-set-of-tree-branch-vector_58: -1090148007
+      a-set-of-tree-branch-vector_59: -2111051781
+      a-set-of-tree-branch-vector_6: 986033818
+      a-set-of-tree-branch-vector_60: 1816994475
+      a-set-of-tree-branch-vector_61: 938602890
+      a-set-of-tree-branch-vector_62: -271619718
+      a-set-of-tree-branch-vector_63: -1268423258
+      a-set-of-tree-branch-vector_64: -971086929
+      a-set-of-tree-branch-vector_65: -505554156
+      a-set-of-tree-branch-vector_66: 1002767746
+      a-set-of-tree-branch-vector_67: -333838658
+      a-set-of-tree-branch-vector_68: -578304123
+      a-set-of-tree-branch-vector_69: 557264053
+      a-set-of-tree-branch-vector_7: -1896333820
+      a-set-of-tree-branch-vector_70: 1466479291
+      a-set-of-tree-branch-vector_71: 607135239
+      a-set-of-tree-branch-vector_72: 563012208
+      a-set-of-tree-branch-vector_73: 1708892307
+      a-set-of-tree-branch-vector_74: -1624562151
+      a-set-of-tree-branch-vector_75: -1088197278
+      a-set-of-tree-branch-vector_76: 1473259893
+      a-set-of-tree-branch-vector_77: 764056904
+      a-set-of-tree-branch-vector_78: 1468136921
+      a-set-of-tree-branch-vector_79: 917285944
+      a-set-of-tree-branch-vector_8: -1505260935
+      a-set-of-tree-branch-vector_80: 811078194
+      a-set-of-tree-branch-vector_81: -309313425
+      a-set-of-tree-branch-vector_82: -997394263
+      a-set-of-tree-branch-vector_83: -626321982
+      a-set-of-tree-branch-vector_84: 322523257
+      a-set-of-tree-branch-vector_85: 418128135
+      a-set-of-tree-branch-vector_86: -1631340761
+      a-set-of-tree-branch-vector_87: -1325320139
+      a-set-of-tree-branch-vector_88: -1544756411
+      a-set-of-tree-branch-vector_89: -1993405979
+      a-set-of-tree-branch-vector_9: -260373134
+      a-set-of-tree-branch-vector_90: 926595219
+      a-set-of-tree-branch-vector_91: -545775344
+      a-set-of-tree-branch-vector_92: -1714987034
+      a-set-of-tree-branch-vector_93: -1443110239
+      a-set-of-tree-branch-vector_94: -663683833
+      a-set-of-tree-branch-vector_95: -1478478938
+      a-set-of-tree-branch-vector_96: -1484372119
+      a-set-of-tree-branch-vector_97: -1126706198
+      a-set-of-tree-branch-vector_98: -673297204
+      a-set-of-tree-branch-vector_99: 1053438444
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

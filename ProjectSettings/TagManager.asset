@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MyTagGround
+  - MyTagFirstFloor
+  - MyTagWalls
+  - MyTagSecondFloor
+  - MyTagThirdFloor
+  - MyTagTreeNuts
+  - MyTagPlayer
+  - MyTagBackGround
+  - MyTagSquirrel
+  - MyTagNutIcon
+  - MyTagNut
+  - MyTagObstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - MyLayerFloor
+  - MyLayerFirstFloor
+  - MyLayerWalls
+  - MyLayerSecondFloor
+  - MyLayerThirdFloor
+  - MyLayerBackGround
+  - MyLayerSquirrel
+  - MyLayerPlayer
+  - MyLayerTree
+  - MyLayerNut
+  - IgnorePlatform
+  - MyLayerObstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: LayerBackGround
+    uniqueID: 3564556905
+    locked: 0
+  - name: LayerPlayer
+    uniqueID: 1236420821
+    locked: 0
+  - name: LayerPanel
+    uniqueID: 554524751
+    locked: 0
+  - name: LayerTree
+    uniqueID: 3715074907
+    locked: 0
+  - name: LayerSquirrel
+    uniqueID: 3035298723
+    locked: 0
+  - name: LayerWalls
+    uniqueID: 750692601
+    locked: 0
+  - name: LayerNutScore
+    uniqueID: 910520961
+    locked: 0
+  - name: LayerNut
+    uniqueID: 2846657119
+    locked: 0
+  - name: LayerProjectiles
+    uniqueID: 2287500375
+    locked: 0
